@@ -30,3 +30,7 @@ connected_components() = find all the strongly connected component groups in the
 ![alt text](https://i.imgur.com/GOGoP7L.gifL)</br>
 plot_graph() = plots the graph using matplotlib.</br>
 ![alt text](https://i.imgur.com/Gkxx3q1.jpg)</br>
+
+# Comparisons
+Results of comparing this project with Network X and my old Java project
+![alt text](https://i.imgur.com/mkRmX3G.jpg)</br>
