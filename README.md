@@ -1,6 +1,6 @@
 # Directed Weighted Graph implementation in python
-Project by Elai Vaknin & Daniel Tzafrir
-![alt text](https://i0.wp.com/algorithms.tutorialhorizon.com/files/2018/03/Weighted-Graph.png?ssl=1)
+Project by Elai Vaknin & Daniel Tzafrir.</br>
+![alt text](https://i0.wp.com/algorithms.tutorialhorizon.com/files/2018/03/Weighted-Graph.png?ssl=1)</br>
 
 # Data Structures:
 ## NodeData:
