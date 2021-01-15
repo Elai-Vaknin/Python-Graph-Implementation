@@ -24,9 +24,9 @@ init(graph: DiGraph) = inits the GraphAlgo object to perform the algorithms on t
 save_to_json(path: str) = saves the graph as json format to specific file path.</br>
 load_from_json(path: str) = loads a graph out of a saved json file.</br>
 shortest_path(source, dest) = performs Dijkrstra's algorithm to find the shortest path from source to dest.</br>
-![alt text](https://i.imgur.com/tF2uWnq.gif)
+![alt text](https://i.imgur.com/tF2uWnq.gif)</br>
 connected_component(source) = perform Tarjan's algorithm to find the strongly connected component group of the source node.</br>
 connected_components() = find all the strongly connected component groups in the graph.</br>
-![alt text](https://i.imgur.com/GOGoP7L.gifL)
+![alt text](https://i.imgur.com/GOGoP7L.gifL)</br>
 plot_graph() = plots the graph using matplotlib.</br>
-![alt text](https://i.imgur.com/Gkxx3q1.jpg)
+![alt text](https://i.imgur.com/Gkxx3q1.jpg)</br>
