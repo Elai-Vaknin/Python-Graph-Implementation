@@ -27,6 +27,6 @@ shortest_path(source, dest) = performs Dijkrstra's algorithm to find the shortes
 ![alt text](https://i.imgur.com/tF2uWnq.gif)
 connected_component(source) = perform Tarjan's algorithm to find the strongly connected component group of the source node.</br>
 connected_components() = find all the strongly connected component groups in the graph.</br>
-![alt text](https://imgur.com/GOGoP7L)
+![alt text](https://i.imgur.com/GOGoP7L.gifL)
 plot_graph() = plots the graph using matplotlib.</br>
-![alt text](https://imgur.com/Gkxx3q1)
+![alt text](https://i.imgur.com/Gkxx3q1.jpg)
